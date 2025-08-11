@@ -67,6 +67,7 @@
 
 [审计源代码](.cache/mergePDFs.go)
 
+[详细使用文档](docs/mergePDFs.md)
 
 ### 文件和程序示例
 - mergePDFs.exe
